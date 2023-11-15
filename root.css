@@ -1,0 +1,15 @@
+:root {
+    --first-color: #8338ec;
+    --second-light-color: #ad78f6;
+    --white: #fff;
+    --black: #000;
+    --first-dark-color: #121111;
+
+    /* fonts */
+    --font-family-Ribik: Rubik;
+    --font-Roboto: Roboto;
+    --font-Quintessential: Quintessential, sans-serif;
+
+    /*  */
+    --header-height:6.25rem
+}
